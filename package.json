@@ -1,6 +1,21 @@
 {
   "name": "foobar",
+  "description": "",
   "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Chelsea Layton",
+      "email": "clschneider@yahoo.com"
+    },
+    {
+      "name": "Nick Layton",
+      "email": "nicholasllayton@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chelsea-schneider/foobar.git"
+  },
   "private": true,
   "dependencies": {
     "react": "^16.4.0",
